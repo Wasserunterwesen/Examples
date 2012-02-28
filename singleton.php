@@ -18,4 +18,3 @@ class Singleton {
 }
 
 $a = Singleton::getInstance();
-$b = Singleton::getInstance();
